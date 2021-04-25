@@ -1,0 +1,28 @@
+.green{
+
+    height: 400px;
+    
+    width: 700px;
+    
+    background: green;
+    
+    position: relative;
+    }
+    .red{
+        
+    width: 200px;
+        
+    height: 200px;
+        
+    background: red;
+        
+    border-radius: 100%;
+        
+    position: absolute;
+        
+    left: 50%;
+        
+    top: 50%;
+        
+    transform: translate(-50%, -50%);
+    }
